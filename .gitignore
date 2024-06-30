@@ -1,0 +1,11 @@
+env/*
+.env
+UserService/follow/__pycache__/*
+UserService/follow/migrations/0*
+UserService/follow/migrations/__pycache__/*
+
+UserService/user/__pycache__/*
+UserService/user/migrations/__pycache__/*
+UserService/user/migrations/0*
+
+UserService/UserService/__pycache__/*
