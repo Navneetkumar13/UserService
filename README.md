@@ -1,7 +1,7 @@
 # User Service
 
 Description:
-This service is a part of another microservice PostService which uses the same the SQL Database as the PostService and communicates with the microservice PostService for the operations. It uses Docker for containerisation. You can refer LLD Class-Diagram for better underating of the microservices flow that is present in the repo
+This service is a part of another microservice PostService which uses the same the SQL Database as the PostService and communicates with the microservice PostService for the operations. It uses Docker for containerisation. You can refer LLD Class-Diagram for better understanding of the microservices flow that is present in the repo
 
 Use Cases:
 1. Login/Signup user through JWT token
